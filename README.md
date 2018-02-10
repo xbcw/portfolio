@@ -4,10 +4,10 @@ This is my professional portfolio.
 
 ## Technologies Used
 
-Choco/Brew
-Git and github
-SSH
-HTML
-CSS
-Font Awesome
-Google Fonts
+- Choco/Brew
+- Git and github
+- SSH
+- HTML
+- CSS
+- Font Awesome
+- Google Fonts
