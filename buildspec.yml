@@ -15,4 +15,3 @@ artifacts:
     - styles/main.css
     - images/*
     - dist/bundle.js
-    - js/*
