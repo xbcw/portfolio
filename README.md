@@ -1,13 +1,16 @@
 # Brad Williams's portfolio
 
-This is my professional portfolio.
+This is my portfolio.
 
 ## Technologies Used
 
-- Choco/Brew
-- Git and github
-- SSH
 - HTML
 - CSS
-- Font Awesome
-- Google Fonts
+- JavaScript
+- React
+- Mocha
+- Chai
+- Jest
+- Babel
+- Enzyme
+- Webpack
